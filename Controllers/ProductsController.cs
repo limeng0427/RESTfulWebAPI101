@@ -7,7 +7,7 @@ using System.Linq;
 namespace WebServer.Controllers
 {
     [Route("api/[controller]")]
-    class ProductsController: Controller
+    public class ProductsController: Controller
     {
         [HttpGet("{id}")]
         public Product Get(int id){
