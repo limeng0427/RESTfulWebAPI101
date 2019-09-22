@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6752E4E1-4FAA-4D3A-8C36-93E22203E43C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Controllers/ProductsController.cs" Line="14" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebServer" expanded="True">
+            <Node name="WebServer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

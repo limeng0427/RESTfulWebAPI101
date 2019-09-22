@@ -1,0 +1,14 @@
+/Users/liam/Projects/WebServer/bin/Debug/netcoreapp2.2/WebServer.deps.json
+/Users/liam/Projects/WebServer/bin/Debug/netcoreapp2.2/WebServer.runtimeconfig.json
+/Users/liam/Projects/WebServer/bin/Debug/netcoreapp2.2/WebServer.runtimeconfig.dev.json
+/Users/liam/Projects/WebServer/bin/Debug/netcoreapp2.2/WebServer.dll
+/Users/liam/Projects/WebServer/bin/Debug/netcoreapp2.2/WebServer.pdb
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.csprojAssemblyReference.cache
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.csproj.CoreCompileInputs.cache
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorAssemblyInfo.cache
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorAssemblyInfo.cs
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.AssemblyInfoInputs.cache
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.AssemblyInfo.cs
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorTargetAssemblyInfo.cache
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.dll
+/Users/liam/Projects/WebServer/obj/Debug/netcoreapp2.2/WebServer.pdb
