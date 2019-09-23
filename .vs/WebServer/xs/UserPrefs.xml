@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{6752E4E1-4FAA-4D3A-8C36-93E22203E43C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductsController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Product.cs">
     <Files>
-      <File FileName="Controllers/ProductsController.cs" Line="14" Column="50" />
+      <File FileName="Controllers/ProductsController.cs" Line="14" Column="34" />
+      <File FileName="Models/Product.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebServer" expanded="True">
             <Node name="WebServer" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ProductsController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Product.cs" selected="True" />
               </Node>
             </Node>
           </Node>

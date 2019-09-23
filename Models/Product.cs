@@ -1,11 +1,18 @@
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 
 namespace WebServer.Models
 {
+    [Table("Product")]
     public class Product
     {
+        [Key, Column("id")]
         public int ID { get; set; }
+        [Column("name")]
         public string Name { get; set; }
+        [Column("price")]
         public double Price { get; set; }
     }
 
