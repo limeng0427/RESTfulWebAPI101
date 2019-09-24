@@ -26,6 +26,7 @@ namespace WebServer
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,6 +44,16 @@ namespace WebServer
 
             app.UseHttpsRedirection();
             app.UseMvc();
+
+            // app.UseCors(builder => 
+            // builder.WithOrigins("https://friend-origin-name.com")
+            // .WithMethods("GET","POST","PUT","DELETE")
+            // .AllowAnyHeader());
+
+            app.UseCors(builder => 
+            builder.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
         }
     }
 }
